@@ -10,7 +10,7 @@ brew install git wget icdiff ag tree coreutils ctags vim  cmake
 #	xtrafinder dash java
 
 # mac terminal config 
-git clone git://github.com/altercation/solarized.git
+#git clone git://github.com/altercation/solarized.git
 
 #vim
 tar -xzvf vim_config.tar.gz
